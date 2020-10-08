@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T08:14:22.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="_KJsK9xAwr2ag_4VTcQa" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T08:19:48.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="0hSc5bE5jE2vpeZn2dc0" version="13.7.8" type="github">
   <diagram id="htnOJV_m_E0lrNDff9NO" name="Page-1">
-    <mxGraphModel dx="870" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="870" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="MU2heXE6XKSnMrSwozil-1" value="人员需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MU2heXE6XKSnMrSwozil-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MU2heXE6XKSnMrSwozil-2" target="MU2heXE6XKSnMrSwozil-4">
+        <mxCell id="MU2heXE6XKSnMrSwozil-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MU2heXE6XKSnMrSwozil-2" target="MU2heXE6XKSnMrSwozil-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MU2heXE6XKSnMrSwozil-2" value="岗位职责" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -90,6 +90,18 @@
         </mxCell>
         <mxCell id="MU2heXE6XKSnMrSwozil-32" value="晋升通道" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MU2heXE6XKSnMrSwozil-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MU2heXE6XKSnMrSwozil-36" target="MU2heXE6XKSnMrSwozil-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MU2heXE6XKSnMrSwozil-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MU2heXE6XKSnMrSwozil-36" target="MU2heXE6XKSnMrSwozil-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MU2heXE6XKSnMrSwozil-36" value="人才盘点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MU2heXE6XKSnMrSwozil-39" value="内部调动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
