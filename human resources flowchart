@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T08:19:48.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="0hSc5bE5jE2vpeZn2dc0" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T09:12:56.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="94I8xEUWgm46bRwviw1E" version="13.7.8" type="github">
   <diagram id="htnOJV_m_E0lrNDff9NO" name="Page-1">
     <mxGraphModel dx="870" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,13 +40,13 @@
         <mxCell id="MU2heXE6XKSnMrSwozil-10" value="电话/app邀约" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MU2heXE6XKSnMrSwozil-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MU2heXE6XKSnMrSwozil-12" target="MU2heXE6XKSnMrSwozil-14">
+        <mxCell id="MU2heXE6XKSnMrSwozil-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MU2heXE6XKSnMrSwozil-12" target="MU2heXE6XKSnMrSwozil-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MU2heXE6XKSnMrSwozil-12" value="首次面试" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MU2heXE6XKSnMrSwozil-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MU2heXE6XKSnMrSwozil-14" target="MU2heXE6XKSnMrSwozil-16">
+        <mxCell id="MU2heXE6XKSnMrSwozil-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MU2heXE6XKSnMrSwozil-14" target="MU2heXE6XKSnMrSwozil-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MU2heXE6XKSnMrSwozil-14" value="复试" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -102,6 +102,18 @@
         </mxCell>
         <mxCell id="MU2heXE6XKSnMrSwozil-39" value="内部调动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MU2heXE6XKSnMrSwozil-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MU2heXE6XKSnMrSwozil-42" target="MU2heXE6XKSnMrSwozil-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MU2heXE6XKSnMrSwozil-42" value="背景调查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MU2heXE6XKSnMrSwozil-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MU2heXE6XKSnMrSwozil-45" target="MU2heXE6XKSnMrSwozil-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MU2heXE6XKSnMrSwozil-45" value="薪酬谈判" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
